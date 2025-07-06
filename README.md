@@ -1,20 +1,22 @@
 # 🎮 Tic-Tac-Toe vs Computer (3x3)
 
-A classic **Tic-Tac-Toe** game built with a 3×3 board where you can **play against the computer**! The game offers a clean interface, instant feedback, and smart gameplay logic.
+Welcome to a smart implementation of the classic **Tic-Tac-Toe** game where you face off against an AI-powered computer opponent on a standard 3x3 grid. The game is intuitive, fast, and fun – perfect for casual play or testing your logical thinking.
+
+🔗 [Play the Game](https://github.com/zeon-X/tic-tac-toe-game)
 
 ---
 
 ## 🧠 Features
 
-- 🤖 Play against a computer opponent
-- 🎯 3x3 standard Tic-Tac-Toe grid
-- 🚦 Real-time win/draw detection
-- 🔁 Game reset functionality
-- 🎨 Clean and minimal UI
+- 🤖 **AI-Powered Opponent** – Built-in computer logic plays against you
+- 🎯 **3x3 Classic Grid** – Traditional layout, easy to use
+- 🏁 **Instant Result Detection** – Win/draw checks after every move
+- 🔄 **Reset Button** – Quickly restart a match
+- 💻 **Lightweight & Fast** – Runs in any modern browser without setup
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
 <table>
   <tr>
@@ -43,8 +45,8 @@ A classic **Tic-Tac-Toe** game built with a 3×3 board where you can **play agai
 
 ## ⚙️ Installation
 
-Clone the repository and open the project folder:
+To run locally:
 
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe.git
-cd tic-tac-toe
+git clone https://github.com/zeon-X/tic-tac-toe-game.git
+cd tic-tac-toe-game
