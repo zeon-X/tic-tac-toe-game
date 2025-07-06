@@ -12,7 +12,6 @@ Welcome to a smart implementation of the classic **Tic-Tac-Toe** game where you 
 - 🎯 **3x3 Classic Grid** – Traditional layout, easy to use
 - 🏁 **Instant Result Detection** – Win/draw checks after every move
 - 🔄 **Reset Button** – Quickly restart a match
-- 💻 **Lightweight & Fast** – Runs in any modern browser without setup
 
 ---
 
