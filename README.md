@@ -50,3 +50,5 @@ To run locally:
 ```bash
 git clone https://github.com/zeon-X/tic-tac-toe-game.git
 cd tic-tac-toe-game
+npm install
+npm start
